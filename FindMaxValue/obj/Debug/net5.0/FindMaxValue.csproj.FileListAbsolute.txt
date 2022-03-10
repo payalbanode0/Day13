@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\bin\Debug\net5.0\FindMaxValue.exe
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\bin\Debug\net5.0\FindMaxValue.deps.json
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\bin\Debug\net5.0\FindMaxValue.runtimeconfig.json
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\bin\Debug\net5.0\FindMaxValue.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\bin\Debug\net5.0\FindMaxValue.dll
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\bin\Debug\net5.0\FindMaxValue.pdb
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\obj\Debug\net5.0\FindMaxValue.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\obj\Debug\net5.0\FindMaxValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\obj\Debug\net5.0\FindMaxValue.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\obj\Debug\net5.0\FindMaxValue.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\obj\Debug\net5.0\FindMaxValue.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\obj\Debug\net5.0\FindMaxValue.dll
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\obj\Debug\net5.0\refint\FindMaxValue.dll
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\obj\Debug\net5.0\FindMaxValue.pdb
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\obj\Debug\net5.0\FindMaxValue.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Bridgelab\Day13\FindMaxValue\FindMaxValue\obj\Debug\net5.0\ref\FindMaxValue.dll
