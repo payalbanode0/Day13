@@ -44,5 +44,4 @@ namespace Testing
             Assert.AreEqual(expected, actual);
         }
     }
-
 }

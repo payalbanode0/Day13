@@ -37,8 +37,6 @@ namespace FindMaxValue
             Console.WriteLine(maxValue);
             Console.ReadLine();
         }
-
-
     }
 
 }
